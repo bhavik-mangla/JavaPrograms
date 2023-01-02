@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Happy
+comment1.params=d
+comment1.target=int\ digits(java.lang.String)
+comment2.params=n1
+comment2.target=int\ sumDigits(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

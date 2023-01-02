@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=compareOVL
+comment1.params=x\ y
+comment1.target=void\ compare(int,\ int)
+comment2.params=a\ b
+comment2.target=void\ compare(char,\ char)
+numComments=3

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=mulFunction
+comment1.params=length\ bredth
+comment1.target=int\ mul(int,\ int)
+numComments=2

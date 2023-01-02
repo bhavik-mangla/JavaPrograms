@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SeriesOVL
+comment1.params=n\ x
+comment1.target=void\ sumSeries(int,\ double)
+comment2.params=n
+comment2.target=void\ sumSeries(int)
+numComments=3

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=x\ h
+comment0.target=void\ design(int,\ char)
+comment1.params=x\ y
+comment1.target=void\ design(int,\ int)
+numComments=2
